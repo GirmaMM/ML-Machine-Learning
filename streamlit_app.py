@@ -72,4 +72,3 @@ with st.expander('Data preparation'):
   input_row
   st.write('**Encoded y**')
   y
-
